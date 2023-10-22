@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tit-tat-toe-app/static/css/main.fedae07d.css",
+    "main.js": "/tit-tat-toe-app/static/js/main.27a72883.js",
+    "static/js/787.393238a3.chunk.js": "/tit-tat-toe-app/static/js/787.393238a3.chunk.js",
+    "index.html": "/tit-tat-toe-app/index.html",
+    "main.fedae07d.css.map": "/tit-tat-toe-app/static/css/main.fedae07d.css.map",
+    "main.27a72883.js.map": "/tit-tat-toe-app/static/js/main.27a72883.js.map",
+    "787.393238a3.chunk.js.map": "/tit-tat-toe-app/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedae07d.css",
+    "static/js/main.27a72883.js"
+  ]
+}
